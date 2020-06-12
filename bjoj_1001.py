@@ -3,5 +3,7 @@
 # Title : A-B
 # Date : 20-06-08
 
-A, B = map(int, input().split())
+from sys import stdin
+
+A, B = map(int, stdin.readline().split())
 print(A - B)

@@ -1,9 +1,9 @@
-# Baekjoon Online Judge Study - 1000
+# Baekjoon Online Judge Study - 10998
 # Author : ㄱㄱㅊ
-# Title : A+B
-# Date : 20-06-08
+# Title : AxB
+# Date : 20-06-11
 
 from sys import stdin
 
 A, B = map(int, stdin.readline().split())
-print(A + B)
+print(A * B)
