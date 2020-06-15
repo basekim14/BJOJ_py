@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 10430
-# Author : ㄱㄱㅊ
-# Title : Remainder
-# Date : 20-06-12
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-12
+Baekjoon Online Judge Study - 10430(multiplication)
+"""
 
 from sys import stdin
 

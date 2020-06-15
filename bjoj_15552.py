@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 15552
-# Author : ㄱㄱㅊ
-# Title : fast sum
-# Date : 20-06-14
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-14
+Baekjoon Online Judge Study - 15552(fast sum)
+"""
 
 from sys import stdin
 

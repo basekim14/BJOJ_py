@@ -1,6 +1,6 @@
-# Baekjoon Online Judge Study - 2557
-# Author : ㄱㄱㅊ
-# Title : Hello World
-# Date : 20-06-11
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-11
+Baekjoon Online Judge Study - 2557(Hello World)
+"""
 
 print("Hello World!")

@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 2753
-# Author : ㄱㄱㅊ
-# Title : leap year
-# Date : 20-06-13
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-13
+Baekjoon Online Judge Study - 2753(leap year)
+"""
 
 from sys import stdin
 

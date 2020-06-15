@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 14681
-# Author : ㄱㄱㅊ
-# Title : quadrant section
-# Date : 20-06-13
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-13
+Baekjoon Online Judge Study - 14681(quadrant section)
+"""
 
 from sys import stdin
 

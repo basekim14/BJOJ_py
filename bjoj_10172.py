@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 10172
-# Author : ㄱㄱㅊ
-# Title : Dog
-# Date : 20-06-12
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-12
+Baekjoon Online Judge Study - 10172(Dog)
+"""
 
 print("|\\_/|")
 print("|q p|   /}")

@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 2739
-# Author : ㄱㄱㅊ
-# Title : multiplication table
-# Date : 20-06-14
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-14
+Baekjoon Online Judge Study - 2739(multiplication table)
+"""
 
 from sys import stdin
 

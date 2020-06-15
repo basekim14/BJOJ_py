@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 2884
-# Author : ㄱㄱㅊ
-# Title : alarm clock
-# Date : 20-06-13
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-13
+Baekjoon Online Judge Study - 2884(alarm clock)
+"""
 
 from sys import stdin
 

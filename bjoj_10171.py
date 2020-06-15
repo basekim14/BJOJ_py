@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 10171
-# Author : ㄱㄱㅊ
-# Title : Cat
-# Date : 20-06-11
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-11
+Baekjoon Online Judge Study - 10171(Cat)
+"""
 
 print("\\    /\\")
 print(" )  ( ')")

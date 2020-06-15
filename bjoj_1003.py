@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 1003
-# Author : ㄱㄱㅊ
-# Title : fibonacci
-# Date : 20-06-10
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-10
+Baekjoon Online Judge Study - 1003(fibonacci)
+"""
 
 import sys
 

@@ -1,7 +1,7 @@
-# Baekjoon Online Judge Study - 10950
-# Author : ㄱㄱㅊ
-# Title : A+B - 3
-# Date : 20-06-14
+"""
+ㄱㄱㅊ <basekim14@gmail.com>, 20-06-14
+Baekjoon Online Judge Study - 10950(A+B - 3)
+"""
 
 from sys import stdin
 
