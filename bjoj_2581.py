@@ -6,12 +6,6 @@ Baekjoon Online Judge Study - 1978(is prime)
 
 T = input()
 numlist = list(map(int, input().split()))
-conut = 0
- 
-for i in numlist:
-    if i == 1 :
-        continue
-    if len([1 for z in [j for j in range(2, i)] if i % z == 0]) == 0:
-        conut+=1
+conut = sum(map(lambda x: all(x % j for j in range(2, x)) and x > 1, numlist))
  
 print(conut)
