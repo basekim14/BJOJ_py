@@ -2,13 +2,13 @@
 ㄱㄱㅊ <basekim14@gmail.com>, 20-07-24
 Baekjoon Online Judge Study - 4948(bertrand's postulate)
 """
-n = 2 * 123456
-sieve = [False] + [True] * n
+LEN = 2 * 123456
+sieve = [False] + [True] * LEN
 sieve[1] = False
-m = n
+m = int(LEN ** 0.5)
 for i in range(2, m+1):
     if sieve[i] == True:
-        for j in range(i+i, m+1, i):
+        for j in range(i+i, LEN+1, i):
             sieve[j] = False
 
 while True:
