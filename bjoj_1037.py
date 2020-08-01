@@ -1,15 +1,10 @@
 """
-ㄱㄱㅊ <basekim14@gmail.com>, 20-07-31
-Baekjoon Online Judge Study - 5086(multiple and factor)
+ㄱㄱㅊ <basekim14@gmail.com>, 20-08-02
+Baekjoon Online Judge Study - 1037(proper divisor)
 """
 
-while True:
-    a, b = map(int, input().split())
-    if a == b == 0:
-        break
-    elif a % b == 0:
-        print("multiple")
-    elif b % a == 0:
-        print("factor")
-    else:
-        print("neither")
+nums = int(input())
+divs = sorted(list(map(int, input().split())))
+N = divs[0] * divs[-1]
+# N = divs[nums//2] * divs[nums//2-1] if nums % 2 == 0 else divs[nums//2] ** 2
+print(N)
