@@ -1,6 +1,6 @@
 """
 ㄱㄱㅊ <basekim14@gmail.com>, 20-08-03
-Baekjoon Online Judge Study - 1037(11653)
+Baekjoon Online Judge Study - 11653(prime factorization)
 """
 
 N = int(input())
