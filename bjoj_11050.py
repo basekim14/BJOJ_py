@@ -1,6 +1,6 @@
 """
 ㄱㄱㅊ <basekim14@gmail.com>, 20-08-14
-Baekjoon Online Judge Study - 11050(ring)
+Baekjoon Online Judge Study - 11050(binomial coefficient)
 """
 
 from math import factorial
